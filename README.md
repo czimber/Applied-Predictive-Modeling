@@ -1,2 +1,3 @@
 Applied-Predictive-Modeling
 ===========================
+Exercises
